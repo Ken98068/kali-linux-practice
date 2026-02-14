@@ -1,6 +1,9 @@
-# kali-linux-practice
+# Kali-linux-practice
+
+
+
 Notes, commands, and practice tools for learning Kali Linux and cybersecurity.
-# Kali Linux Tools Notes
+#Kali Linux Tools Notes
 
 ## 1. Nmap
 
